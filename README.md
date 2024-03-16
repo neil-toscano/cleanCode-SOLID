@@ -1,6 +1,6 @@
-# Proyecto para practicar
+## PRINCIPIOS SOLID-CLEAN CODE
 
-Este es un proyecto de Vanilla TypeScript en Vite, para trabajar los ejercicios del curso sobre Principios SOLID y CleanCode.
+
 
 Clonar o descargar el proyecto y luego:
 
