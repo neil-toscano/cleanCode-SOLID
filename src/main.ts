@@ -1,5 +1,5 @@
 import './style.css';
-import './clean-code/07-tarea';
+import './solid/03-liskov-a';
 // import './clean-code/04-homeWork'
 const app = document.querySelector<HTMLDivElement>('#app')!
 
